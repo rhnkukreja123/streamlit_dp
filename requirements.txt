@@ -1,0 +1,4 @@
+PyPDF2==2.11.0
+streamlit==1.13.0
+torch==1.12.1
+transformers==4.22.2
